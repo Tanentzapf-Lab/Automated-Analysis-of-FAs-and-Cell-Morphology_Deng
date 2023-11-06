@@ -3,12 +3,10 @@ Open source repository for source code for "Consolidation of Cell-ECM Adhesion T
 
 ## System Requirements
 - See System Requirements for MATLAB.
--	See Introduction to R
--	This script has been tested on MATLAB R2023a
+-	This script has been tested on MATLAB R2023a.
 
 ## Installation
 - See Download MATLAB to download MATLAB. MATLAB files can be downloaded from this repository.
-- See Download R to download R. R files can be downloaded from this repository.
 
 ## Instructions for Use – Focal Adhesion and Cell Morphology analysis (MATLAB)
 - Ensure you have downloaded all MATLAB files from this repository. The folders include sub folders for only actin analysis, only focal adhesion analysis, and analysis of both actin and focal adhesions.
